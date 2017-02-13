@@ -57,7 +57,7 @@ export default class Presentation extends React.Component {
           <TOC items={initiatives}/>
         </Slide>
         <Slide bgColor='primary'>
-          <Heading textColor='tertiary'>Ipreo Acount</Heading>
+          <Heading textColor='tertiary'>Ipreo Account</Heading>
           <List>
             <Heading size={4}>Status </Heading> 
             <hr />
